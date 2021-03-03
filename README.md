@@ -84,4 +84,4 @@ The paths defined throughout the repository are now consistent with your Google 
 2. Open terminal in current directory.
 3. Run `npm install` to install all the dependencies.
 4. To start the server, run `ng serve` in the terminal.
-5. Server will start on localhost:4200/
+5. Server will start on localhost:4200
