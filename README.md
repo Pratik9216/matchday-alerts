@@ -1,4 +1,9 @@
 # Match-Day Alerts
+### Intuition
+
+[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail.png)](https://youtu.be/3oSXNljcTmI)
+
+
 ## 1. Introduction to use case
 Consider the use case of HotStar, a subscription based
 model for live sports-streaming. There are several other
@@ -14,6 +19,9 @@ match when big moments are about to occur.
 
 
 ## 2. Approach to Solution
+
+
+
 The goal is to predict whether a “big” moment will occur in the current
 over or not. Big moment will be the predictive feature defined as:
 `wicket in this over` or `multiple boundaries in this over`.
