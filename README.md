@@ -1,10 +1,10 @@
 # Match-Day Alerts
-### Intuition
-
-[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail.png)](https://youtu.be/3oSXNljcTmI)
-
 
 ## 1. Introduction to use case
+
+[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_intro.png)](https://youtu.be/3oSXNljcTmI)
+
+
 Consider the use case of HotStar, a subscription based
 model for live sports-streaming. There are several other
 competitors out there which provide free sports livestreaming services. Customer acquisition and retention
@@ -20,7 +20,7 @@ match when big moments are about to occur.
 
 ## 2. Approach to Solution
 
-
+[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://www.youtube.com/watch?v=pEWghZK_Bho)
 
 The goal is to predict whether a “big” moment will occur in the current
 over or not. Big moment will be the predictive feature defined as:
