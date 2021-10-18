@@ -41,11 +41,11 @@ batsman’s strike_rate
 [![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://youtu.be/pEWghZK_Bho?t=861)
 
 
-## 3. High Level Architecture
+## 4. High Level Architecture
 ![Enterprise AI Cycle](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/md_architecture.png)
 
 
-## 4. Challenges & Considerations
+## 5. Challenges & Considerations
 - **Highly Imbalanced Dataset:**
   In a 50-overs match, the number of “big” overs are a minority,
   making our positive predictive class population to be only 10% of the total population.    
@@ -59,7 +59,7 @@ batsman’s strike_rate
   unseen data.
 
 
-## 5. User Interface
+## 6. User Interface
 ![UI](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/ui_md_2.png)
 
 ## 6. Environment Setup
@@ -74,7 +74,7 @@ The models are built on the [Google Colab](https://colab.research.google.com/) p
 ![Enterprise AI Cycle](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/md_paths.png)
 The paths defined throughout the repository are now consistent with your Google Drive directory as shown in an example above.
 
-## 7. Download models
+## 8. Download models
 ### Boundary Models
 1. Go to [Boundary Models archive](https://drive.google.com/file/d/1dPGOSWrmUkAmkttLy7m9eVBIbbPpgqxz/view?usp=sharing)
 2. Download the .zip file.
@@ -89,7 +89,7 @@ The paths defined throughout the repository are now consistent with your Google 
 4. Extract the downloaded .zip file.
 5. Make sure `model_training_inning_1.pkl` and `model_training_inning_2.pkl` are in `/model_training` directory.
 
-## 8. Application Usage
+## 9. Application Usage
 ### Deploy Angular server
 1. Go to `/matchDayAlertsAngular`.
 2. Open terminal in current directory.
