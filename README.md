@@ -37,6 +37,9 @@ balls_in_partnership, balls_since_last_boundary.
 **Players:** bowler’s_average, bowler’s_strike_rate, batsman’s average,
 batsman’s strike_rate
 
+## 3. Working demo
+[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://youtu.be/pEWghZK_Bho?t=861)
+
 
 ## 3. High Level Architecture
 ![Enterprise AI Cycle](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/md_architecture.png)
