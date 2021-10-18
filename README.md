@@ -1,6 +1,11 @@
 # Match-Day Alerts
 
-## 1. Introduction to use case
+## 1. Working demo
+
+[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://youtu.be/pEWghZK_Bho?t=861)
+
+
+## 2. Introduction to use case
 
 [![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_intro.png)](https://youtu.be/3oSXNljcTmI)
 
@@ -18,7 +23,7 @@ Alerts**. Viewers will receive alerts during the live
 match when big moments are about to occur.
 
 
-## 2. Approach to Solution
+## 3. Approach to Solution
 
 [![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://www.youtube.com/watch?v=pEWghZK_Bho)
 
@@ -36,9 +41,6 @@ quantify all the aspects of the match.
 balls_in_partnership, balls_since_last_boundary.  
 **Players:** bowler’s_average, bowler’s_strike_rate, batsman’s average,
 batsman’s strike_rate
-
-## 3. Working demo
-[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://youtu.be/pEWghZK_Bho?t=861)
 
 
 ## 4. High Level Architecture
