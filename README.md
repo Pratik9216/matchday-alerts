@@ -25,8 +25,6 @@ match when big moments are about to occur.
 
 ## 3. Approach to Solution
 
-[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://www.youtube.com/watch?v=pEWghZK_Bho)
-
 The goal is to predict whether a “big” moment will occur in the current
 over or not. Big moment will be the predictive feature defined as:
 `wicket in this over` or `multiple boundaries in this over`.
