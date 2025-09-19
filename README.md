@@ -2,12 +2,10 @@
 
 ## 1. Working demo
 
-[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_exp.png)](https://youtu.be/pEWghZK_Bho?t=861)
+
 
 
 ## 2. Introduction to use case
-
-[![Watch the video](https://github.com/aniket-somwanshi/matchday-alerts/blob/master/Resources/thumbnail_intro.png)](https://youtu.be/3oSXNljcTmI)
 
 
 Consider the use case of HotStar, a subscription based
